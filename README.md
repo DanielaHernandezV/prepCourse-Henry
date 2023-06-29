@@ -1,2 +1,1 @@
-# prepCourse-Henry
-Este es un repositorio del modulo 2 del prep course de Henry
+Este es un trabajo de prueba para practicars con Git
